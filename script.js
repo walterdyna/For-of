@@ -1,5 +1,10 @@
 
 
+/*O for...of no JavaScript é uma estrutura usada para percorrer elementos de objetos que podem ser iterados, como arrays, strings, conjuntos e mapas. Ele permite acessar diretamente os valores desses elementos, um por um, de forma simples e organizada.
+
+Por exemplo, em um array de frutas, o for...of percorre cada fruta, permitindo que você trabalhe com cada uma separadamente. Da mesma forma, ao usá-lo com uma string, ele vai passar por cada letra. Ele é útil porque evita a necessidade de lidar com índices ou métodos mais complexos, tornando o código mais claro e legível.
+*/
+
 const myName = "Alex";
 const user = ["Rodolfo", "Maria", "João", "jonas", "Pedro"];
 
